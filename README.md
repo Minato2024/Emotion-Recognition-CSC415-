@@ -33,7 +33,7 @@ A clean and simple Flask web application for detecting human emotions from uploa
 
 1. **Navigate to the project directory**
    ```bash
-   cd SOBOYEJO-OLUWALASE_23CD034363_EMOTION_DETECTION_WEB_APP
+   cd FEMI-BABATUNDE_OLAMIDE_22CG031858_EMOTION_DETECTION_WEB_APP
    ```
 
 2. **Install dependencies**
@@ -63,7 +63,7 @@ flask run
 ## 📁 Project Structure
 
 ```
-SOBOYEJO-OLUWALASE_23CD034363_EMOTION_DETECTION_WEB_APP/
+FEMI-BABATUNDE_OLAMIDE_22CG031858_EMOTION_DETECTION_WEB_APP/
 ├── app.py              # Main Flask application
 ├── model.py            # Emotion detection model handler
 ├── run.py              # Smart launcher script
